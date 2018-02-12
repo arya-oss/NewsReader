@@ -1,0 +1,246 @@
+{
+  "status": "ok",
+  "totalResults": 20,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Ndtv.com"
+      },
+      "author": null,
+      "title": "Russian Plane With 71 On Board Crashes Outside Moscow: Report",
+      "description": "A Russian passenger plane carrying 71 people crashed in the outskirts of Moscow on Sunday after taking off from the capital's Domodedovo airport, Russian media reported.",
+      "url": "https://www.ndtv.com/world-news/russian-passenger-plane-crashes-outside-moscow-report-1811375",
+      "urlToImage": "https://i.ndtvimg.com/i/2018-02/saratov-airlines_650x400_61518353966.jpg",
+      "publishedAt": "2018-02-11T12:57:26Z"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ndtv.com"
+      },
+      "author": null,
+      "title": "Bollywood Mourns Death Of Pakistani Activist Asma Jahangir",
+      "description": null,
+      "url": "https://www.ndtv.com/india-news/bollywood-mourns-death-of-pakistani-activist-asma-jahangir-1811377",
+      "urlToImage": null,
+      "publishedAt": "2018-02-11T12:48:00Z"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indiatoday.in"
+      },
+      "author": null,
+      "title": "Alliance with Rajinikanth unlikely if his colour is 'saffron', says Kamal Haasan in apparent reference to BJP",
+      "description": "Actor-turned-politician Kamal Haasan said an alliance with Rajinikanth was unlikely if his colour was \"saffron,\" in an apparent reference to the BJP, the Press Trust of India reported Sunday.",
+      "url": "https://www.indiatoday.in/india/story/alliance-with-rajinikanth-unlikely-if-his-colour-is-saffron-says-kamal-haasan-in-apparent-reference-to-bjp-1167282-2018-02-11",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201802/kamal-rajini-story_647_111517102909.jpeg?nB6R5l6MinW0RzqPh53VE8osOIUvaBPJ",
+      "publishedAt": "2018-02-11T12:47:17Z"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Firstpost.com"
+      },
+      "author": null,
+      "title": "Narendra Modi's historic outreach to Ramallah can go a long way in establishing peace between Israel, Palestine",
+      "description": "Narendra Modi's outreach to the Palestinian people reaffirms that the Indian government wants to continue its historic engagement with the Palestinian cause.",
+      "url": "http://www.firstpost.com/india/narendra-modis-historic-outreach-to-ramallah-can-go-a-long-way-in-establishing-peace-between-israel-palestine-4346137.html",
+      "urlToImage": "http://images.firstpost.com/wp-content/uploads/2018/02/modi-palestine-social.jpg",
+      "publishedAt": "2018-02-11T12:45:22Z"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ndtv.com"
+      },
+      "author": "NDTVSports.com",
+      "title": "South Africa Played Well, Deserved To Win: Virat Kohli",
+      "description": "India went into the fourth ODI as favourites but two weather breaks coupled with a few missed chances brought a halt to their rampaging ODI run as South Africa kept the series alive.",
+      "url": "https://sports.ndtv.com/south-africa-vs-india-2018/india-vs-south-africa-hosts-played-well-deserved-to-win-says-virat-kohli-1811356",
+      "urlToImage": "https://i.ndtvimg.com/i/2018-02/virat-kohli-aiden-markram-bcci_806x605_61518349720.jpg",
+      "publishedAt": "2018-02-11T11:52:00Z"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Firstpost.com"
+      },
+      "author": null,
+      "title": "Congress social media head Divya Spandana says party's team has 'limited access' to resources unlike BJP",
+      "description": "Congress's social media team does not have enough access to resources and information unlike that of the ruling BJP, Divya Spandana, the head of the Social Media and Digital Communications team, has rued",
+      "url": "http://www.firstpost.com/politics/congress-social-media-head-divya-spandana-says-partys-team-has-limited-access-to-resources-unlike-bjp-4345915.html",
+      "urlToImage": "http://images.firstpost.com/wp-content/uploads/2018/02/Divya-Spandana-Ramya-at-Harvard-talk_Social_Twitter-at-indiaconf2018.jpg",
+      "publishedAt": "2018-02-11T11:45:04Z"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": null,
+      "title": "'Pad Man' not released yet in Pakistan",
+      "description": "Indian actor Akshay Kumar's 'Pad Man', a film highlighting awareness on menstrual hygiene, has not yet been released in Pakistan. But a senior officia",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/pad-man-not-released-yet-in-pakistan/articleshow/62872345.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-62872390/62872390.jpg?64958",
+      "publishedAt": "2018-02-11T11:37:58Z"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "The Associated Press",
+      "title": "Israeli minister says airstrikes sent clear message to Iran",
+      "description": "Israel's Minister of Intelligence Israel Katz said on Sunday that by striking key Iranian sites in Syria, Israel sent a clear message to Iran.",
+      "url": "https://www.cnbc.com/2018/02/11/israeli-minister-says-airstrikes-sent-clear-message-to-iran.html",
+      "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/02/11/105001745-GettyImages-916842800.1910x1000.jpg",
+      "publishedAt": "2018-02-11T11:18:00Z"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": null,
+      "title": "AIMPLB sacks cleric for suggesting shifting Babri mosque site",
+      "description": "India News: NEW DELHI: All India Muslim Personal Law Board (AIMPLB) executive member Salman Nadvi was today expelled from Board after he suggested shifting the si.",
+      "url": "https://timesofindia.indiatimes.com/india/cleric-who-suggested-shifting-babri-site-sacked/articleshow/62871912.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-62872242/62872242.jpg?357217",
+      "publishedAt": "2018-02-11T09:38:53Z"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thequint.com"
+      },
+      "author": null,
+      "title": "Close Shave: Air India and Vistara Avert Crash By Seconds",
+      "description": null,
+      "url": "https://www.thequint.com/news/hot-news/air-india-vistara-flights-escape-mid-air-crash-by-seconds",
+      "urlToImage": null,
+      "publishedAt": "2018-02-11T09:26:43Z"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ndtv.com"
+      },
+      "author": null,
+      "title": "5 Benefits Of Aadhaar Based E-KYC For Buying A New SIM",
+      "description": "Aadhaar based e-KYC for buying a new SIM offers benefits to service providers as well as customers.",
+      "url": "https://www.ndtv.com/business/5-benefits-of-aadhaar-based-e-kyc-for-buying-a-new-sim-budget-1811290",
+      "urlToImage": "https://i.ndtvimg.com/i/2017-12/aadhaar-facebook_650x400_81513175414.jpg",
+      "publishedAt": "2018-02-11T08:59:25Z"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indiatoday.in"
+      },
+      "author": "IndiaToday.in",
+      "title": "Delhi: Man stabs wife 21 times with peeler knife after quarrel, sentenced to life",
+      "description": "The Delhi High Court has sentenced a man to life imprisonment for brutally murdering his wife by stabbing her 21 time",
+      "url": "https://www.indiatoday.in/india/story/delhi-man-stabs-wife-21-times-with-peeler-knife-after-quarrel-sentenced-to-life-1167100-2018-02-11",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201802/murder.jpeg?vvbfZGyrUhESPh6xmCbFd_VT0hjs2pFP",
+      "publishedAt": "2018-02-11T08:32:38Z"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ndtv.com"
+      },
+      "author": null,
+      "title": "Four Elephants Killed After Speeding Train Hits Them In Assam",
+      "description": "Four elephants were killed in Assam's Nagaon district on Saturday after being hit by a speeding train.",
+      "url": "https://www.ndtv.com/india-news/in-assam-four-elephants-die-on-the-spot-after-a-speeding-train-hits-them-1811280",
+      "urlToImage": "https://i.ndtvimg.com/i/2018-02/assam-elephant-death-650_650x400_81518335761.jpg",
+      "publishedAt": "2018-02-11T08:24:00Z"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indianexpress.com"
+      },
+      "author": "Express Web Desk",
+      "title": "Salman Khan heads to Bangkok for Race 3; See photos",
+      "description": "The makers of Race 3 have already wrapped the first schedule of this much-awaited film, starring Salman Khan alongside Jacqueline Fernandez. Remo D Souza, the director, had shared a couple of stills previously, updating the fans on the shooting schedule.",
+      "url": "http://indianexpress.com/article/entertainment/bollywood/salman-khan-race-3-see-photos-5059459/",
+      "urlToImage": "http://images.indianexpress.com/2018/02/race-759.jpg?w=759",
+      "publishedAt": "2018-02-11T07:50:16Z"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Outlookindia.com"
+      },
+      "author": null,
+      "title": "Mankhurd fire under control",
+      "description": "",
+      "url": "https://www.outlookindia.com/newsscroll/mankhurd-fire-under-control/1250693",
+      "urlToImage": "https://www.outlookindia.com/public/uploads/outlook-banner-img.gif",
+      "publishedAt": "2018-02-11T07:32:08Z"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "PTI",
+      "title": "Toll in attack on Army camp rises to 6",
+      "description": "A top police official said three more Army men and a civilian, who was the father of an Army personnel, were killed, taking the toll to six.",
+      "url": "https://economictimes.indiatimes.com/news/defence/toll-in-attack-on-army-camp-rises-to-6/articleshow/62870965.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-62870982,width-672,resizemode-4,imgsize-93495/2.jpg",
+      "publishedAt": "2018-02-11T07:21:00Z"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indiatoday.in"
+      },
+      "author": "IndiaToday.in",
+      "title": "Did Sonam Kapoor 'show attitude' to Sonakshi Sinha? The Pad Man actress apologises",
+      "description": "Sonam Kapoor's response to Sonakshi Sinha is a refreshing change from the catfights of Bollywood. Sonakshi, on a rece",
+      "url": "https://www.indiatoday.in/movies/gossip/story/sonam-kapoor-sonakshi-sinha-fight-apology-1167002-2018-02-11",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201802/sonakshi_sonam.jpeg?QcMutX93mCP2C0d15ZiGKUWxICIgOQQz",
+      "publishedAt": "2018-02-11T05:35:27Z"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newindianexpress.com"
+      },
+      "author": null,
+      "title": "Nonagenarian Nirajoy Tripura sets sight on third term as CPI-M legislator",
+      "description": "Nirajoy Tripura, a CPI-M candidate in the Left Front-ruled Tripura, is perhaps the oldest and the poorest lawmaker in the country.",
+      "url": "http://www.newindianexpress.com/nation/2018/feb/11/nonagenarian-nirajoy-tripura-sets-sight-on-third-term-as-cpi-m-legislator-1771616.html",
+      "urlToImage": "http://images.newindianexpress.com/uploads/user/imagelibrary/logo/nie_logo_600X390.jpg",
+      "publishedAt": "2018-02-11T05:07:44Z"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Todayonline.com"
+      },
+      "author": null,
+      "title": "After religious clash in India, rumours create a false 'martyr'",
+      "description": "",
+      "url": "http://www.todayonline.com/world/after-religious-clash-india-rumours-create-false-martyr",
+      "urlToImage": "http://www.todayonline.com/sites/default/files/styles/new_app_article_detail/public/photos/43_images/31912010.JPG?itok=25bbwUTW",
+      "publishedAt": "2018-02-11T04:39:34Z"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Indianexpress.com"
+      },
+      "author": "Shruti Dhapola",
+      "title": "WhatsApp Payments feature now live in India: Here's how to get",
+      "description": "WhatsApp Payments feature, which is based on India's Unified Payments Interface (UPI), is now live on iOS and Android. The most-requested feature will let users send and receive money directly via WhatsApp.",
+      "url": "http://indianexpress.com/article/technology/social/whatsapp-payments-feature-based-on-upi-now-live-on-ios-and-android-in-india-heres-how-to-get-5058189/",
+      "urlToImage": "http://images.indianexpress.com/2018/02/whatsapp-1x-1-copy.jpg?w=759",
+      "publishedAt": "2018-02-11T03:30:39Z"
+    }
+  ]
+}
